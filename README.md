@@ -1,3 +1,5 @@
+### 仅能编译rk3568的固件
+
 # 欢迎来到 Lean 的 Openwrt 源码仓库
 
 如何编译自己需要的 OpenWrt 固件 [English](./README_EN.md)
